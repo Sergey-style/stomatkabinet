@@ -257,6 +257,7 @@ color: #6c6c6c;
 .we {
 	background: url('../img/layer_10_2248.png')0 0/cover no-repeat;
 	padding: 180px 0 180px 0;
+	background-position: center;
 }
 .container {}
 .we_content {
